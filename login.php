@@ -83,7 +83,7 @@ body{
       <label class="form-label">Password</label>
       <input type="password" name="password" class="form-control" required>
     </div>
-    <button name="login" class="btn btn-primary w-100">Login</button>
+    <button name="LOGIN" class="btn btn-primary w-100">Login</button>
   </form>
 </div>
 
